@@ -9,5 +9,4 @@ p1 = Person("Anvar")
 p2 = Person("Shavkat")
 p3 = Person("Jasur")
 
-person = [p1.name,p2.name,p3.name]
-print(person)
+persons = [p1.name,p2.name,p3.name]
