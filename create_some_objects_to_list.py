@@ -10,3 +10,4 @@ p2 = Person("Shavkat")
 p3 = Person("Jasur")
 
 persons = [p1.name,p2.name,p3.name]
+
